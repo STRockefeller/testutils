@@ -135,8 +135,10 @@ func TestMySuite(t *testing.T) {
 
 ```
 
-License
+### License
+
 testutils is released under the [MIT License](./LICENSE).
 
-Contact
+### Contact
+
 For any questions, issues, or feedback, please open an issue on the [GitHub repository](github.com/STRockefeller/testutils).
